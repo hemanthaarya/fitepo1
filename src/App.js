@@ -393,7 +393,7 @@ function App() {
           </HelpContainer>
         </SubTitleContainer>
         <AccountContainer>
-          <ImgContainer src='https://media.licdn.com/dms/image/D5603AQFeLN5XEdDYag/profile-displayphoto-shrink_800_800/0/1693357139123?e=2147483647&v=beta&t=btNflzdoXvi06xFZe30PJQ3IRzeHgOTtCPn4Qy_8FwE'/>
+          <ImgContainer src='https://media.licdn.com/dms/image/D5603AQFeLN5XEdDYag/profile-displayphoto-shrink_800_800/0/1693357139123?e=2147483647&v=beta&t=btNflzdoXvi06xFZe30PJQ3IRzeHgOTtCPn4Qy_8FwE' alt='hemanth'/>
           <DetailsCOntainer>
             <Name>Hemanth Kumar</Name>
             <Role>Production Manager</Role>
@@ -580,7 +580,7 @@ function App() {
             <hr style={{opacity:"0.5",marginLeft:"5px",marginRight:"5px"}}/>
             <ProductsContainer>
               <div style={{width:"50px",height:"10px"}}>
-                <img style={{borderRadius:"5px"}} src='https://picsum.photos/id/237/80/50'/>
+                <img alt='dog' style={{borderRadius:"5px"}} src='https://picsum.photos/id/237/80/50'/>
               </div>
               <div style={{width:"500px",height:"90px",fontFamily: "sans-serif,Helvetica",marginLeft:"-140px",marginTop:"-10px"}}>
                 <h1 style={{fontSize:"14px"}}>Abstract 3D</h1>
